@@ -3,7 +3,7 @@
  * @see https://www.electron.build/configuration/configuration
  */
 module.exports = {
-	appId: 'com.sneknotsnake.fresh-updater',
+	appId: 'com.sneknotsnake.fresh-update',
 	productName: 'Fresh Update App',
 	copyright: 'Copyright © 2022 ${author}',
 	asar: true,
